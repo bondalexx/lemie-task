@@ -1,0 +1,4 @@
+.liked:active .like {
+  background-color: #ffe2e2;
+  transition: all 0.1s ease-in-out;
+}
