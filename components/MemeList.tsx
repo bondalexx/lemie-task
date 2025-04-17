@@ -6,7 +6,7 @@ import { Card, Button, Modal } from "@heroui/react";
 import { FaRegHeart } from "react-icons/fa";
 import { FaHeart } from "react-icons/fa";
 import Image from "next/image";
-import styles from './styles.module.css';
+import styles from '../app/list/styles.module.css';
 import { useSearchParams } from "next/navigation";
 import { useMemes } from "@/lib/MemeContext";
 import { IoCloseOutline } from "react-icons/io5";
